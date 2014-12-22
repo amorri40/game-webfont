@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?-8d28w0');
-	src:url('fonts/icomoon.eot?#iefix-8d28w0') format('embedded-opentype'),
-		url('fonts/icomoon.woff?-8d28w0') format('woff'),
-		url('fonts/icomoon.ttf?-8d28w0') format('truetype'),
-		url('fonts/icomoon.svg?-8d28w0#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?-lk64kk');
+	src:url('fonts/icomoon.eot?#iefix-lk64kk') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-lk64kk') format('woff'),
+		url('fonts/icomoon.ttf?-lk64kk') format('truetype'),
+		url('fonts/icomoon.svg?-lk64kk#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,18 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-snes-controller:before {
+	content: "\e601";
+}
+.icon-nintendo-controller:before {
+	content: "\e602";
+}
+.icon-genesis-controller:before {
+	content: "\e603";
+}
+.icon-n64-controller:before {
+	content: "\e604";
+}
 .icon-gameboy:before {
 	content: "\e600";
 }

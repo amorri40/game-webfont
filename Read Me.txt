@@ -2,6 +2,14 @@
 
 Many thanks to the awesome IcoMoon web app for the conversion from vector (.svg) to a fully working webfont plus css!
 
+## Icons
+
+Genesis Controller - http://www.flaticon.com/free-icon/genesis-control_37526
+Nintendo Controller - http://www.flaticon.com/free-icon/nintendo-game-control_38453
+Super Nintendo Controller - http://www.flaticon.com/free-icon/game-control-super-nintendo_39684
+Gameboy - http://www.alasdairmorrison.com
+N64 Controller - http://www.fontsaddict.com/icon/n64-game-control.html
+
 ## Instructions
 Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
 
